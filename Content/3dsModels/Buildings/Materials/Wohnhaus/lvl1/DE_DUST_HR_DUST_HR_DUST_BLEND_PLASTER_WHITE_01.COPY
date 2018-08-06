@@ -1,0 +1,11 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="DE_DUST_HR_DUST_HR_DUST_BLEND_PLASTER_WHITE_01"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   ParameterStateId=6E9AC25B4BE4BC62DE3C7A8B82ED534C
+   Parent=Material'"/Game/3dsModels/NAture/Trees/Material/Master_Material/M_tree_basic.M_tree_basic"'
+   ReferencedTextureGuids(0)=65F73E2044AD1303153FAD9DA8CF1293
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=B804B0424EAD4D3CF953C58556B45A6C
+End Object
